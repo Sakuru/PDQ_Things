@@ -1,5 +1,6 @@
 # Created by Colby Bouma
 # This script correlates members of a group to their computer from PDQ Inventory
+# https://github.com/Sakuru/PDQ_Things/blob/master/AD_Group_to_PDQ_Computer.ps1
 
 
 
